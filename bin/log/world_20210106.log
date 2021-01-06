@@ -1,0 +1,50 @@
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:76: ********************************************************** 
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:79: 	ActorDBServer(LAN):	localhost:13306
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:81: ********************************************************** 
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-06 14:41:03]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:87: [md_actor]数据库连接是失败...
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:76: ********************************************************** 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:79: 	ActorDBServer(LAN):	localhost:3306
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:81: ********************************************************** 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:91: [md_actor]数据库初始化成功!
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/data/InitData.go:23: ----read data begin----- 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/data/InitData.go:26: ----read data end----- 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/toprank/toprankr.go:36: 读取排行榜 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/common/LogicErr.go:12: db [toprankr LoadDB] error [Error 1146: Table 'md_actor.tbl_toprank' doesn't exist]
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/toprank/toprankr.go:60: 读取排行榜加载完成 
+[2021-01-06 14:42:05]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/common/cluster/ClusterServer.go:85: ADD Gate SERVER: [1]-[192.168.4.188:31700]
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:76: ********************************************************** 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:79: 	ActorDBServer(LAN):	localhost:3306
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:81: ********************************************************** 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:91: [md_actor]数据库初始化成功!
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/data/InitData.go:23: ----read data begin----- 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/data/InitData.go:26: ----read data end----- 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/toprank/toprankr.go:36: 读取排行榜 
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/common/LogicErr.go:12: db [toprankr LoadDB] error [Error 1146: Table 'md_actor.tbl_toprank' doesn't exist]
+[2021-01-06 19:52:26]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/toprank/toprankr.go:60: 读取排行榜加载完成 
+[2021-01-06 19:52:29]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/common/cluster/ClusterServer.go:85: ADD Gate SERVER: [1]-[192.168.4.188:31700]
+[2021-01-06 20:08:02]WorldServer.go:76: ********************************************************** 
+[2021-01-06 20:08:02]WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-06 20:08:02]WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-06 20:08:02]WorldServer.go:79: 	ActorDBServer(LAN):	localhost:3306
+[2021-01-06 20:08:02]WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-06 20:08:02]WorldServer.go:81: ********************************************************** 
+[2021-01-06 20:08:02]WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-06 20:08:02]WorldServer.go:91: [md_actor]数据库初始化成功!
+[2021-01-06 20:08:02]InitData.go:23: ----read data begin----- 
+[2021-01-06 20:08:02]InitData.go:26: ----read data end----- 
+[2021-01-06 20:08:02]toprankr.go:36: 读取排行榜 
+[2021-01-06 20:08:02]LogicErr.go:12: db [toprankr LoadDB] error [Error 1146: Table 'md_actor.tbl_toprank' doesn't exist]
+[2021-01-06 20:08:02]toprankr.go:60: 读取排行榜加载完成 
+[2021-01-06 20:08:06]ClusterServer.go:85: ADD Gate SERVER: [1]-[192.168.4.188:31700]

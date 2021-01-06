@@ -1,8 +1,8 @@
 #nohup ./server "monitor" &
 #sleep 1
-nohup ./server "world" &
+nohup ./server "world" > /dev/null 2>logsys &
 sleep 1
-nohup ./server "account" &
+nohup ./server "account" > /dev/null 2>logsys &
 sleep 1
-nohup ./server "netgate" &
+nohup ./server "netgate" > /dev/null 2>logsys &
 sleep 1

@@ -1,0 +1,16 @@
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:76: ********************************************************** 
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:79: 	ActorDBServer(LAN):	localhost:13306
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:81: ********************************************************** 
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-05 22:32:50]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:87: [md_actor]数据库连接是失败...
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:76: ********************************************************** 
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:77: 	WorldServer Version:	1,5,1,1
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:78: 	WorldServerIP(LAN):	127.0.0.1:31300
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:79: 	ActorDBServer(LAN):	localhost:13306
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:80: 	ActorDBName:		md_actor
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:81: ********************************************************** 
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:85: 正在初始化数据库连接... 
+[2021-01-05 22:38:46]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/world/WorldServer.go:87: [md_actor]数据库连接是失败...

@@ -1,0 +1,16 @@
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:64: ********************************************************** 
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:65: 	AccountServer Version:	1,5,1,1
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:66: 	AccountServerIP(LAN):	127.0.0.1:31200
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:67: 	ActorDBServer(LAN):	localhost:13306
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:68: 	ActorDBName:		md_account
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:69: ********************************************************** 
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:73: 正在初始化数据库连接... 
+[2021-01-05 22:32:51]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:75: [md_account]数据库连接是失败...
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:64: ********************************************************** 
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:65: 	AccountServer Version:	1,5,1,1
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:66: 	AccountServerIP(LAN):	127.0.0.1:31200
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:67: 	ActorDBServer(LAN):	localhost:13306
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:68: 	ActorDBName:		md_account
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:69: ********************************************************** 
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:73: 正在初始化数据库连接... 
+[2021-01-05 22:38:47]/Users/diyal/Documents/workspace/gospace/src/gonet/src/gonet/server/account/AccountServer.go:75: [md_account]数据库连接是失败...
